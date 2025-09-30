@@ -1,0 +1,6 @@
+google-auth>=2.20.0
+google-auth-oauthlib>=1.1.0
+google-api-python-client>=2.70.0
+openai>=1.0.0
+python-dotenv
+python-dateutil
